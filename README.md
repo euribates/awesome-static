@@ -32,15 +32,17 @@
 > maximum style flexibility; meaning you can adjust the weight, color, size, and
 > if you want the edges to be round or square. See demo.
 
-- Icons8 [icons8.com/](https://icons8.com/)
-![Icons8](icons/icons8.ico)
->  69,400 Free Flat Icons in any format, size and color in 20 seconds
+- [Icons8](https://icons8.com/) ![Icons8](icons/icons8.ico) 69,400 Free Flat Icons in any format, size and color in 20 seconds
 
-## Varios
+## Miscellaneous
 
 - Freepik [www.freepik.com/](https://www.freepik.com/)
 ![Freepik](icons/freepik.ico)
 > Find Free Vectors, PSD, Icons and photos 
 
+## Game Assets
+
+- [kenney](http://kenney.nl/) - Free game assets, including images, aufio files
+  and 3D models. Public Comain license
 
 
