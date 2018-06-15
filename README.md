@@ -46,3 +46,7 @@
   and 3D models. Public Comain license
 
 - [OpenGameArt](https://opengameart.org/) - Assets creators community
+
+- [OpenGameGraphics](https://opengamegraphics.com/) - Many resources 
+
+- [Gameart2d.com](https://www.gameart2d.com/freebies.html) - 
