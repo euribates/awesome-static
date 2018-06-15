@@ -49,4 +49,4 @@
 
 - [OpenGameGraphics](https://opengamegraphics.com/) - Many resources 
 
-- [Gameart2d.com](https://www.gameart2d.com/freebies.html) - 
+- [GameArt2d.com](https://www.gameart2d.com/freebies.html) - 
