@@ -1,6 +1,6 @@
 ## Awesome static meta-resources
 
-- [Vector ilustrations](./ilustrations.md)
+- [Vector ilustrations](ilustrations.md)
 
 ### Free Image Banks
 
