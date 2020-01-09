@@ -2,25 +2,7 @@
 
 - [Vector ilustrations](illustrations.md)
 
-### Free Image Banks
-
-- Pixabay [pixabay.com](https://pixabay.com/)
-![Pixabay](icons/pixabay.ico)
-
-- Unsplash [u8nsplash.com](https://unsplash.com/)
-![Unsplash](icons/unsplash.ico)
-
-- StockSnap.io [sotcksmap.io](https://stocksnap.io/)
-![Stocksnap.io](icons/stocksnap.io.ico)
-> Beautiful free stock photos
-> Hundreds of high resolution images added weekly. Free from copyright restrictions.
-
-- Flickr [www.flickr.com](https://www.flickr.com/)
-![Flickr](icons/flickr.ico)
-
-
-- Gratisography [gratisography.com](https://gratisography.com/)
-![Gratisography](icons/gratisography.ico)
+- [Free Images Banks](images.md)
 
 
 ## Iconos
