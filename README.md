@@ -1,5 +1,7 @@
 ## Awesome static meta-resources
 
+- [Vector ilustrations](./ilustrations.md)
+
 ### Free Image Banks
 
 - Pixabay [pixabay.com](https://pixabay.com/)
