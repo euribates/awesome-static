@@ -3,7 +3,7 @@
 
 ### Ilustrations
 
-#### unDraw.co
+* **unDraw.co**
 
 <https://undraw.co/>
 
@@ -12,7 +12,7 @@ choose custom colors for every illustration available on this site.
 
 It also provides an extension for designers so that they can take this directly to adobe XD.
 
-#### Ouch!
+* **Ouch!**
 
 <https://icons8.com/ouch>
 
@@ -20,7 +20,7 @@ Illustrations provided by [icons8](https://icons8.com/) which also provides a hu
 are kind of cartoonish but amazing. You can use this for free but they are uneditable and don't
 forget to attribute it. You can get the editable SVG's for a price though.
 
-#### humaaans
+* **humaaans**
 
 <https://humaaans.com/>
 
@@ -29,7 +29,7 @@ almost every occasion and every part of the website. Each vector is customizable
 pants, etc.
 
 
-#### retrovectors
+* **retrovectors**
 
 <http://retrovectors.com/category/free-vectors/>
 
@@ -37,15 +37,14 @@ Planning to design Vintage style web-page? This is the right place to make your 
 complete. Some of them are free and some are paid but are high quality and amazing. You can even
 edit the files to create a new design. Don't forget to read terms of use tough.
 
-#### absurd
+* **absurd**
 
 <https://absurd.design/#slide-6>
 
 Absurd but meaningful vectors for your out of the box webpage. You can get 10+1 png images for free
 but for more and colorful vectors you gotta pay. Believe me, they are amazing and worth each penny.
 
-
-#### Freepik
+* **Freepik**
 
 <https://www.freepik.com/free-vectors/illustrations>
 
@@ -53,14 +52,14 @@ Another huge collection of free illustrations. It has almost +324,000 Free Illus
 But as said before don't forget to attribute them! These can also be bought at a price so there is
 no need for attribution.
 
-#### lukaszadam
+* **lukaszadam**
 
 <https://lukaszadam.com/illustrations>
 
 All of these illustrations are free and they are designed Lukasz Adam. Basically you can do anything
 you want with them.
 
-#### DrawKit
+* **DrawKit**
 
 <https://www.drawkit.io/free>
 
