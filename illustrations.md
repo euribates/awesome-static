@@ -16,13 +16,11 @@ It also provides an extension for designers so that they can take this directly 
 
 <https://icons8.com/ouch>
 
-These are the free illustrations provided by icons8 which also provides a huge number of icons. They
+Illustrations provided by [icons8](https://icons8.com/) which also provides a huge number of icons. They
 are kind of cartoonish but amazing. You can use this for free but they are uneditable and don't
-forget to attribute it. You can get the editable SVG's for a price though. Check it out here
+forget to attribute it. You can get the editable SVG's for a price though.
 
-
-
-#### humaaans
+#### humaaans
 
 <https://humaaans.com/>
 
