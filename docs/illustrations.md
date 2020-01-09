@@ -1,4 +1,4 @@
-## [Static resources](../../README.md) ~ Ilustrations
+## Illustrations
 
 * **unDraw.co**
 

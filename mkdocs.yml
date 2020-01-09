@@ -1,0 +1,10 @@
+site_name: Awesome static
+theme: readthedocs
+nav:
+    - Home: index.md
+    - Fonts: fonts.md
+    - Game Assets: game-assets.md
+    - Icons: icons.md
+    - Images: images.md
+    - Sound & Music: music.md
+    - Vectors: illustrations.md
