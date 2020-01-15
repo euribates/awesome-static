@@ -7,6 +7,7 @@
 - [Icons](icons.md)
 - [Images Banks](images.md)
 - [Music and sound effects](music.md)
+- [Photos](photos.md)
 - [Vector ilustrations](illustrations.md)
 
 ## Multiple resources

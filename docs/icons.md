@@ -1,6 +1,11 @@
 
 ### [Static resources](../) ~ Iconos
 
+### The Noun Project
+<https://thenounproject.com/>
+
+Icons for everything. Over 2 Million curated icons, created by a global community
+
 #### Bytesize Icons
 
   <https://github.com/danklammer/bytesize-icons)>

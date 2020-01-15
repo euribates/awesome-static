@@ -1,5 +1,10 @@
 ## Fonts
 
+### Font Awesome
+<http://fontawesome.io/>
+
+Scalable vector icons that can instantly be customized - size, color, drop shadow, and anything that can be done with the power of CSS.
+
 ### Free Design Resources
 <http://freedesignresources.net/category/free-fonts/>
 
