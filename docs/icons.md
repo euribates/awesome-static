@@ -1,20 +1,21 @@
 
-### [Static resources](../) ~ Iconos
+## Icons
 
 ### The Noun Project
+
 <https://thenounproject.com/>
 
-Icons for everything. Over 2 Million curated icons, created by a global community
+> Icons for everything. Over 2 Million curated icons, created by a global community
 
-#### Bytesize Icons
+### Bytesize Icons
 
   <https://github.com/danklammer/bytesize-icons)>
 
   > A tiny style-controlled SVG iconset. Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for
-  maximum style flexibility; meaning you can adjust the weight, color, size, and
-  if you want the edges to be round or square.
+  > maximum style flexibility; meaning you can adjust the weight, color, size, and
+  > if you want the edges to be round or square.
 
-#### Icons8
+### Icons8
 
   <https://icons8.com/>
 
