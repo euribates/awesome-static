@@ -1,18 +1,20 @@
 ## Awesome static meta-resources
 
-- [Vector ilustrations](illustrations.md)
+This repositry is a curated collection of static resources (logos, photos, sounds, textures, etc...)
+useful for several kind of projects, like games, web sites, movies, multimedia apps, 3D modeling,
+etc...
 
-- [Free Images Banks](images.md)
+You can access the content on [https://euribates.github.io/awesome-static/](https://euribates.github.io/awesome-static/).
 
-- [Free Icons](icons.md)
+At the moment there are 7 main sections:
 
-## Game Assets
+- [Vector ilustrations](docs/illustrations.md)
+- [Images Banks](docs/images.md)
+- [Icons](docs/icons.md)
+- [Game Assets](docs/game-assests.md)
+= [Fonts](docs/fonts.md)
+= [Music and Sounds](docs/music.md)
+= [Illustrations](docs/illustrations.md)
+= [Photos](docs/photoss.md)
 
-- [kenney](http://kenney.nl/) - Free game assets, including images, aufio files
-  and 3D models. Public Comain license
-
-- [OpenGameArt](https://opengameart.org/) - Assets creators community
-
-- [OpenGameGraphics](https://opengamegraphics.com/) - Many resources 
-
-- [GameArt2d.com](https://www.gameart2d.com/freebies.html) - 
+To contribute, just send the ussual Pull Request or just [add an issue to this repository](https://github.com/euribates/awesome-static/issues/new).
