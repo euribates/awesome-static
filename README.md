@@ -11,7 +11,7 @@ At the moment there are 7 main sections:
 - [Vector ilustrations](docs/illustrations.md)
 - [Images Banks](docs/images.md)
 - [Icons](docs/icons.md)
-- [Game Assets](docs/game-assests.md)
+- [Game Assets](docs/game-assets.md)
 - [Fonts](docs/fonts.md)
 - [Music and Sounds](docs/music.md)
 - [Illustrations](docs/illustrations.md)
