@@ -5,5 +5,4 @@
 - [Pixabay](https://pixabay.com/)
 - [Snapwire Snaps](http://snapwiresnaps.tumblr.com/)
 - [StockSnap](https://stocksnap.io/)
-- [Unsplas](https://unsplash.com/>)
--
+- [Unsplash](https://unsplash.com/)
