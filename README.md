@@ -15,7 +15,7 @@ At the moment there are 7 main sections:
 - [Fonts](docs/fonts.md)
 - [Music and Sounds](docs/music.md)
 - [Illustrations](docs/illustrations.md)
-- [Photos](docs/photoss.md)
+- [Photos](docs/photos.md)
 
 To contribute, just send the ussual Pull Request or just [add an issue to this repository](https://github.com/euribates/awesome-static/issues/new).
 
