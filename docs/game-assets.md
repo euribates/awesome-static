@@ -1,9 +1,18 @@
 ## Game Assets
 
-- [Kenney](http://kenney.nl/) Free game assets, including images, aufio files and 3D models. Public Comain license
+### Kenney <http://kenney.nl/>
 
-- [GameArt2d.com](https://www.gameart2d.com/freebies.html) Free assets for everyone
+> Free game assets, including images, aufio files and 3D models. Public Comain license
 
-- [OpenGameArt](https://opengameart.org/) Assets creators community
+### GameArt2d.com <https://www.gameart2d.com/freebies.html>
 
-- [OpenGameGraphics](https://opengamegraphics.com/) Many resources 
+> Free assets for everyone
+
+### OpenGameArt <https://opengameart.org/>
+
+> Assets creators community
+
+### OpenGameGraphics <https://opengamegraphics.com/>r
+
+> Looks like this is down (16/Jan/2020)
+> Many resources 
