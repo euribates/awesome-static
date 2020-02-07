@@ -20,3 +20,9 @@
   <https://icons8.com/>
 
   > 69,400 Free Flat Icons in any format, size and color in 20 seconds
+
+### Captain Icons
+
+ <https://mariodelvalle.github.io/CaptainIconWeb/>
+
+ > 350 awesome free vector icons to empower your mobile and web designs
