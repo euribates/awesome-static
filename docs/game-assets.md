@@ -2,24 +2,33 @@
 
 ### Kenney
 
-<http://kenney.nl/>
-
 Free game assets, including images, aufio files and 3D models. Public Comain license
+
+- Homepage: <http://kenney.nl/>
+
+### Createboy
+
+https://crateboy.itch.io/
 
 ### GameArt2d.comr
 
-<https://www.gameart2d.com/freebies.html>
-
 Free assets for everyone
 
-### OpenGameArtr
+- homepage: <https://www.gameart2d.com/freebies.html>
 
-<https://opengameart.org/>
+
+### OpenGameArt
 
 Assets creators community
 
-### OpenGameGraphicsr
+- Homepage: <https://opengameart.org/>
 
-* <https://opengamegraphics.com/>
 
-Looks like this is down (16/Jan/2020)
+### Widgetworx spritelab
+
+SpriteLib is a collection of static and animated graphic objects (also commonly known as
+sprites) that Ari Feldman created between 1992 and 2002 for his own game projects. Seeing
+how it could benefit others, he decided  to offer it to hobbyist game developers to use
+in their creations free of charge. 
+
+- Homepage: <https://www.widgetworx.com/spritelib/>
