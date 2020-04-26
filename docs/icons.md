@@ -1,28 +1,39 @@
-
 ## Icons
+
+### Heroicons
+
+A set of free MIT-licensed high-quality SVG icons for you to use in your web projects.
+
+- Live preview: <https://heroicons.dev/>
+
+- Repository: <https://github.com/refactoringui/heroicons>
 
 ### The Noun Project
 
-<https://thenounproject.com/>
+Icons for everything. Over 2 Million curated icons, created by a global community
 
-> Icons for everything. Over 2 Million curated icons, created by a global community
+- Project homepage: <https://thenounproject.com/>
 
 ### Bytesize Icons
 
-  <https://github.com/danklammer/bytesize-icons)>
+A tiny style-controlled SVG iconset. Each icon is hand-coded along a 32x32
+grid, and uses SVG stroke allowing for maximum style flexibility; meaning you
+can adjust the weight, color, size, and if you want the edges to be round or
+square.
 
-  > A tiny style-controlled SVG iconset. Each icon is hand-coded along a 32x32 grid, and uses SVG stroke allowing for
-  > maximum style flexibility; meaning you can adjust the weight, color, size, and
-  > if you want the edges to be round or square.
+- Repository: <https://github.com/danklammer/bytesize-icons)>
 
 ### Icons8
+  
+69,400 Free Flat Icons in any format, size and color in 20 seconds
 
-  <https://icons8.com/>
+- Project homepage: <https://icons8.com/>
+- Blog: <https://icons8.com/blog/>
 
-  > 69,400 Free Flat Icons in any format, size and color in 20 seconds
 
 ### Captain Icons
 
- <https://mariodelvalle.github.io/CaptainIconWeb/>
+350 awesome free vector icons to empower your mobile and web designs
 
- > 350 awesome free vector icons to empower your mobile and web designs
+- Repository: <https://mariodelvalle.github.io/CaptainIconWeb/>
+
