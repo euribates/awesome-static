@@ -5,11 +5,21 @@
 
 Scalable vector icons that can instantly be customized - size, color, drop shadow, and anything that can be done with the power of CSS.
 
+### Freebiesburg
+<https://freebiesbug.com/>
+
+Multiples options for designers, inculding templates and font files
+
 ### Free Design Resources
 <http://freedesignresources.net/category/free-fonts/>
 
 > Handpicked free fonts to create a beautiful design. Ranging from script, display, sans serif,
 > serif, display, and more.
+
+### Befonts
+<https://befonts.com/>
+
+> Free Fonts for Creatives
 
 ### FontSpace
 <https://www.fontspace.com/>
