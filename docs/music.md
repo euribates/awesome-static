@@ -25,20 +25,34 @@
 ### Musopen
 <https://musopen.org/>
 
-> Musopen is a collection of public domain music you can search by composer, performer, instrument,
-> style, or century.
+> Musopen is a collection of public domain music you can search by
+> composer, performer, instrument, style, or century.
 
 ### Wavecont
 <https://www.wavecont.com/>
 
-> Totally free royalty Free Music. You can use all the music and sound effect on this site, free of
-> charge for all commercial and non-commercial projects.
+> Totally free royalty Free Music. You can use all the music and sound
+> effect on this site, free of charge for all commercial and
+> non-commercial projects.
 
 ### BigSoundBank
 <https://bigsoundbank.com/>
 
-> BigSoundBank.com is a royalty free sounds library, free of charge and public domain sounds. The
-> best quality soundbank for commercial and personal projects. Sounds effects, ambiences,
-> soundscapes and atmospheres in MP3, WAV, BWF, AIFF, OGG, FLAC, AAC and M4A formats. Listen and
-> download ! For audiovisual, cinema, theater, video games, audio sagas, radio, development,
-> powerpoint and more media productions.
+> BigSoundBank.com is a royalty free sounds library, free of charge and
+> public domain sounds. The best quality soundbank for commercial and
+> personal projects. Sounds effects, ambiences, soundscapes and
+> atmospheres in MP3, WAV, BWF, AIFF, OGG, FLAC, AAC and M4A formats.
+> Listen and download ! For audiovisual, cinema, theater, video games,
+> audio sagas, radio, development, powerpoint and more media
+> productions.
+
+### Ben Sound
+<https://www.bensound.com/>
+
+> Royalty free music by BENSOUND. You can use Bensound's music available
+> under the Free License (with the black download button) in your
+> multimedia project (online videos, websites, animations, etc.) for
+> free as long as you credit Bensound.com. If you can't or do not want
+> to credit Bensound or need high quality files (mp3 and wav) and for
+> the "Premium" tracks (with the blue button), you can buy a Bensound
+> Pro Licence.
