@@ -2,10 +2,12 @@ site_name: Awesome static
 theme: readthedocs
 nav:
     - Home: index.md
+    - CSS: css.md
     - Fonts: fonts.md
     - Game Assets: game-assets.md
+    - Patterns: patterns.md
     - Photos: photos.md
     - Icons: icons.md
     - Images: images.md
     - Sound & Music: music.md
-    - Vectors: illustrations.md
+    - Vector Illustrations: illustrations.md

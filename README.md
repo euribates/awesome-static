@@ -6,15 +6,16 @@ etc...
 
 You can access the content on [https://euribates.github.io/awesome-static/](https://euribates.github.io/awesome-static/).
 
-At the moment there are 7 main sections:
+At the moment there are 9 main sections:
 
-- [Vector ilustrations](docs/illustrations.md)
-- [Images Banks](docs/images.md)
-- [Icons](docs/icons.md)
-- [Game Assets](docs/game-assets.md)
+- [CSS](docs/css.md)
 - [Fonts](docs/fonts.md)
-- [Music and Sounds](docs/music.md)
+- [Game Assets](docs/game-assets.md)
+- [Icons](docs/icons.md)
 - [Illustrations](docs/illustrations.md)
+- [Images Banks](docs/images.md)
+- [Music and Sounds](docs/music.md)
+- [Patterns](docs/patterns.md)
 - [Photos](docs/photos.md)
 
 To contribute, just send the ussual Pull Request or just [add an issue to this repository](https://github.com/euribates/awesome-static/issues/new).

@@ -29,4 +29,5 @@
 
 ## How to contribute
 
-Just clone the repo and send a pull request.
+Just clone the repo and send a pull request in this repository
+[https://github.com/euribates/awesome-static](https://github.com/euribates/awesome-static).
