@@ -2,15 +2,15 @@
 
 ## Awesome static meta-resources
 
+- [CSS](css.md)
 - [Fonts](fonts.md)
 - [Game Assets](game-assets.md)
 - [Icons](icons.md)
+- [Ilustrations](illustrations.md)
 - [Images Banks](images.md)
-- [Music and sound effects](music.md)
+- [Music and Sound](music.md)
 - [Patterns](patterns.md)
 - [Photos](photos.md)
-- [Vector ilustrations](illustrations.md)
-- [CSS](css.md)
 
 ## Multiple resources
 
