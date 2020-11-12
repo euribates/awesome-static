@@ -1,5 +1,28 @@
 ## Music and sound effects resources
 
+## Digital Sound and Music
+
+### Freesound
+<http://www.freesound.org/>
+
+> Freesound is a collaborative database of Creative Commons Licensed sounds.
+> Browse, download and share sounds.
+
+### Newgrounds
+<http://www.newgrounds.com/>
+
+> Newgrounds is an online entertainment website and company. It hosts
+> user-generated content such as gaming, filming, audio and artwork composition
+> in four respective website categories. Newgrounds provides visitor-driven
+> voting and ranking of user-generated submissions. 
+
+### Open Music Archive
+<http://openmusicarchive.org/)>
+
+> Open Music Archive is a collaborative project, initiated by artists Eileen
+> Simpson and Ben White, to source, digitise and distribute out-of-copyright
+> sound ...
+
 ### Free Music Archive
 <http://freemusicarchive.org/>
 
@@ -56,3 +79,11 @@
 > to credit Bensound or need high quality files (mp3 and wav) and for
 > the "Premium" tracks (with the blue button), you can buy a Bensound
 > Pro Licence.
+
+### Sounddogs
+<http://www.sounddogs.com/>
+
+> Sounddogs.com, Inc. is a commercial online library of sound effects.
+> It is the first and largest online sound effects and production music library
+> on the Internet. The sounds are **free for evaluation purposes**.
+
