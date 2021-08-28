@@ -1,64 +1,95 @@
 ## Illustrations
 
-* **unDraw.co**
+- <a href="#absurd">Absurd</a>
+- <a href="#drawkit">DrawKit</a>
+- <a href="#freepik">Freepik</a>
+- <a href="#humaaans">Humaaans</a>
+- <a href="#lukaszadam">lukaszadam</a>
+- <a href="#ouch">Ouch!</a>
+- <a href="#retrovectors">Retrovectors</a>
+- <a href="#undrawco">unDraw.co</a>
+- <a href="#vecteezy">Vecteezy</a>
+- <a href="#vectorme">VectorMe</a>
+- <a href="#vectorportal">VectorPortal</a>
+- <a href="#vectorstock">VectorStock</a>
 
-  <https://undraw.co/>
 
-  It's a huge collection of opensource illustrations you can ever imagine. It provides flexibility
-  to choose custom colors for every illustration available on this site.
+### Absurd
+<https://absurd.design/#slide-6>
 
-  It also provides an extension for designers so that they can take this directly to adobe XD.
+> Absurd but meaningful vectors for your out of the box webpage. You can get
+> 10+1 png images for free but for more and colorful vectors you gotta pay.
+> Believe me, they are amazing and worth each penny.
 
-* **Ouch!**
+### DrawKit
+<https://www.drawkit.io/free>
 
-  <https://icons8.com/ouch>
+> Hand drew, free and paid illustrations which will make your day. The designer
+> keeps on adding new designs from time to time so keep an eye on it.
 
-  Illustrations provided by [icons8](https://icons8.com/) which also provides a huge number of
-  icons. They are kind of cartoonish but amazing. You can use this for free but they are uneditable
-  and don't forget to attribute it. You can get the editable SVG's for a price though.
+### Freepik
+<https://www.freepik.com/free-vectors/illustrations>
 
-* **humaaans**
+> Another huge collection of free illustrations. It has almost +324,000 Free
+> Illustrations as of now.  But as said before don't forget to attribute them!
+> These can also be bought at a price so there is no need for attribution.
 
-  <https://humaaans.com/>
+### Humaaans
+<https://humaaans.com/>
 
-  A great resource if you wanna put lots of humaaans on the webpage.  Well, this can be used for
-  almost every occasion and every part of the website. Each vector is customizable - change shirt,
-  pants, etc.
+> A great resource if you wanna put lots of humaaans on the webpage.  Well,
+> this can be used for almost every occasion and every part of the website.
+> Each vector is customizable - change shirt, pants, etc.
 
-* **retrovectors**
+### lukaszadam
+<https://lukaszadam.com/illustrations>
 
-  <http://retrovectors.com/category/free-vectors/>
+> All of these illustrations are free and they are designed Lukasz Adam.
+> Basically you can do anything you want with them.
 
-  Planning to design Vintage style web-page? This is the right place to make your site's vintage
-  look complete. Some of them are free and some are paid but are high quality and amazing. You can
-  even edit the files to create a new design. Don't forget to read terms of use tough.
+### Ouch!
+<https://icons8.com/ouch>
 
-* **absurd**
+> Illustrations provided by [icons8](https://icons8.com/) which also provides a
+> huge number of icons. They are kind of cartoonish but amazing. You can use
+> this for free but they are uneditable and don't forget to attribute it. You
+> can get the editable SVG's for a price though.
 
-  <https://absurd.design/#slide-6>
+### Retrovectors
+<http://retrovectors.com/category/free-vectors/>
 
-  Absurd but meaningful vectors for your out of the box webpage. You can get 10+1 png images for
-  free but for more and colorful vectors you gotta pay. Believe me, they are amazing and worth each
-  penny.
+> Planning to design Vintage style web-page? This is the right place to make
+> your site's vintage look complete. Some of them are free and some are paid
+> but are high quality and amazing. You can even edit the files to create a new
+> design. Don't forget to read terms of use tough.
 
-* **Freepik**
 
-  <https://www.freepik.com/free-vectors/illustrations>
+### unDraw.co
+<https://undraw.co/>
 
-  Another huge collection of free illustrations. It has almost +324,000 Free Illustrations as of
-  now.  But as said before don't forget to attribute them! These can also be bought at a price so
-  there is no need for attribution.
+> It's a huge collection of opensource illustrations you can ever imagine. It
+> provides flexibility to choose custom colors for every illustration available
+> on this site.  It also provides an extension for designers so that they can
+> take this directly to adobe XD.
 
-* **lukaszadam**
+### Vecteezy
+<https://www.vecteezy.com/>
 
-  <https://lukaszadam.com/illustrations>
+> Download Free Vector Art, Stock Photos & Stock Videos. Professional quality
+> creative resources to get your projects done faster.
 
-  All of these illustrations are free and they are designed Lukasz Adam. Basically you can do
-  anything you want with them.
+### VectorMe
+<https://vector.me/>
 
-* **DrawKit**
+> Free vectors and illustrations to download
 
-  <https://www.drawkit.io/free>
+### VectorPortal
+<https://vectorportal.com/>
 
-  Hand drew, free and paid illustrations which will make your day. The designer keeps on adding new
-  designs from time to time so keep an eye on it.
+> Free Stock SVG Vector Images, Clip Art and Icons
+
+### VectorStock
+<https://www.vectorstock.com/free-vectors>
+
+> VectorStock is the world’s Premier Vector-only Image Marketplace. It has a
+> selection on free vectors
