@@ -9,6 +9,7 @@
 - [Ilustrations](illustrations.md)
 - [Images Banks](images.md)
 - [Music and Sound](music.md)
+- [Placeholders](placeholders.md)
 - [Patterns](patterns.md)
 - [Photos](photos.md)
 

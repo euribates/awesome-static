@@ -9,8 +9,8 @@ This pages allows you to use image placeholders for your web or printed designs.
 > Placeholder Images for every case. Webdesign or Print. Just put a custom url
 > in your html and you receive a proper placeholder picture.
 
-An example, using a url like ``http://lorempixel.com/400/200/sports/1/`` you
-can get an image like this:
+> An example, using a url like ``http://lorempixel.com/400/200/sports/1/`` you
+> can get an image like this:
 
 ![Example with lorempixel](http://lorempixel.com/400/200/sports/1/)
 
