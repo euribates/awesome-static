@@ -1,18 +1,8 @@
-## Icons
+---
+title: Icons
+---
 
-### Heroicons
-
-A set of free MIT-licensed high-quality SVG icons for you to use in your web projects.
-
-- Live preview: <https://heroicons.dev/>
-
-- Repository: <https://github.com/refactoringui/heroicons>
-
-### The Noun Project
-
-Icons for everything. Over 2 Million curated icons, created by a global community
-
-- Project homepage: <https://thenounproject.com/>
+[TOC]
 
 ### Bytesize Icons
 
@@ -23,6 +13,23 @@ square.
 
 - Repository: <https://github.com/danklammer/bytesize-icons)>
 
+
+### Captain Icons
+
+350 awesome free vector icons to empower your mobile and web designs
+
+- Repository: <https://mariodelvalle.github.io/CaptainIconWeb/>
+
+
+### Heroicons
+
+A set of free MIT-licensed high-quality SVG icons for you to use in your web projects.
+
+- Live preview: <https://heroicons.dev/>
+
+- Repository: <https://github.com/refactoringui/heroicons>
+
+
 ### Icons8
   
 69,400 Free Flat Icons in any format, size and color in 20 seconds
@@ -30,12 +37,6 @@ square.
 - Project homepage: <https://icons8.com/>
 - Blog: <https://icons8.com/blog/>
 
-
-### Captain Icons
-
-350 awesome free vector icons to empower your mobile and web designs
-
-- Repository: <https://mariodelvalle.github.io/CaptainIconWeb/>
 
 ### Tabler Icons
 
@@ -54,3 +55,26 @@ square.
   <line x1="18" y1="4" x2="18" y2="5" />
   <line x1="18" y1="9" x2="18" y2="20" />
 </svg>
+
+
+### The Noun Project
+
+Icons for everything. Over 2 Million curated icons, created by a global community
+
+- Project homepage: <https://thenounproject.com/>
+
+
+### Vecta.io
+
+Flow chart, AWS, Google and Azure cloud symbols
+
+Some samples:
+
+![Wireless access point](wireless-access-point.png)
+
+![Redis database](redis.png)
+
+![Amazon S3](amazon-s3.png)
+
+
+- [Vecta.io Homepage](https://vecta.io/symbols)
