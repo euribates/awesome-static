@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Diagrams from text - Awesome static</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Diagrams from text";
+    var mkdocs_page_input_path = "diagrams-from-text.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> Awesome static</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../css/">CSS</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../fonts/">Fonts</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../game-assets/">Game Assets</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../patterns/">Patterns</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../placeholders/">Placeholders</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../photos/">Photos</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../icons/">Icons</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../images/">Images</a>
+                    </li>
+                </ul>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Diagrams from text</a>
+    <ul class="current">
+    </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../music/">Sound and Music</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../illustrations/">Vector Illustrations</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">Awesome static</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>Diagrams from text</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <div class="toc">
+<ul>
+<li><a href="#asciiflow">▣ ASCIIFlow</a></li>
+<li><a href="#asymptote">▣ Asymptote</a></li>
+<li><a href="#blockdiag">▣ Blockdiag</a></li>
+<li><a href="#diagramcodes">▣ Diagram.Codes</a></li>
+<li><a href="#diagrams">▣ Diagrams</a></li>
+<li><a href="#ditaa">▣ Ditaa</a></li>
+<li><a href="#erd">▣ ERD</a></li>
+<li><a href="#graphviz">▣ Graphviz</a></li>
+<li><a href="#lolviz">▣ Lolviz</a></li>
+<li><a href="#mermaid">▣ Mermaid</a></li>
+<li><a href="#plantuml">▣ PlantUML</a></li>
+<li><a href="#shaape">▣ Shaape</a></li>
+<li><a href="#sketchviz">▣ Sketchviz</a></li>
+<li><a href="#syntrax">▣ Syntrax</a></li>
+<li><a href="#wavedrom">▣ WaveDrom</a></li>
+<li><a href="#to-do">To do</a></li>
+<li><a href="#more-info">More info</a></li>
+</ul>
+</div>
+<h3 id="asciiflow">▣ ASCIIFlow</h3>
+<ul>
+<li><a href="https://asciiflow.com/">ASCIIFlow homepage</a></li>
+</ul>
+<p><strong>ASCIIFlow</strong> is an online tool to design text diagrams that you can export with ASCII
+Characters. You can quickly create text diagrams for process flow, class hierarchy in
+software development or UML diagrams, wireframes and then export the resulting diagram to
+HTML or text.</p>
+<p>Diagrams can be used with other tools like <a href="#ditaa">ditaa</a> or <a href="#shaape">shaape</a>.</p>
+<pre><code>┌─────────────┐          ┌───────────────────┐
+│             │          │                   │
+│  DRAW WITH  │          │  EXPORT AS IMAGE  │
+│             ├─────────►│    WITH DITAA     │
+│  ASCIIFlow  │          │                   │
+│             │          │                   │
+└─────────────┘          └──────────┬────────┘
+      ▲                             │
+      │       FEEDBACK              │
+      └─────────────────────────────┘
+</code></pre>
+<h3 id="asymptote">▣ Asymptote</h3>
+<ul>
+<li><a href="https://asymptote.sourceforge.io/">Asymptote homepage</a></li>
+<li><a href="https://web.archive.org/web/20091202232015/http://www.piprime.fr/asymptote/">Philippe Ivaldi's extensive Asymptote gallery</a></li>
+</ul>
+<p><strong>Asymptote</strong> (The Vector Graphics Language) is a powerful descriptive vector graphics
+language that provides a natural coordinate-based framework for technical drawing. Labels
+and equations are typeset with LaTeX, for high-quality PostScript output.</p>
+<p>Features of Asymptote:</p>
+<ul>
+<li>
+<p>A programming language, as opposed to just a graphics program</p>
+</li>
+<li>
+<p>provides a portable standard for typesetting mathematical figures, just as TeX/LaTeX has
+   become the standard for typesetting equations;</p>
+</li>
+<li>
+<p>generates high-quality PostScript, PDF, SVG, or 3D PRC vector graphics;</p>
+</li>
+<li>
+<p>embeds 3D vector PRC graphics within PDF files;</p>
+</li>
+<li>
+<p>inspired by MetaPost, with a much cleaner, powerful C++-like programming syntax and IEEE
+   floating-point numerics;</p>
+</li>
+<li>
+<p>runs on all major platforms (UNIX, MacOS, Microsoft Windows);</p>
+</li>
+<li>
+<p>mathematically oriented (e.g. rotation of vectors by complex multiplication);</p>
+</li>
+<li>
+<p>LaTeX typesetting of labels (for document consistency);</p>
+</li>
+<li>
+<p>uses simplex method and deferred drawing to solve overall size constraint issues between
+   fixed-sized objects (labels and arrowheads) and objects that should scale with figure
+   size;</p>
+</li>
+<li>
+<p>fully generalizes MetaPost path construction algorithms to three dimensions;</p>
+</li>
+<li>
+<p>compiles commands into virtual machine code for speed without sacrificing portability;</p>
+</li>
+<li>
+<p>high-level graphics commands are implemented in the Asymptote language itself, allowing them to
+   be easily tailored to specific applications.</p>
+</li>
+</ul>
+<p>See an example:</p>
+<p><img alt="Asymptote sample" src="../asymptote-sample.png" /></p>
+<h3 id="blockdiag">▣ Blockdiag</h3>
+<ul>
+<li><a href="http://blockdiag.com/en/">Blockdiag homepage</a></li>
+</ul>
+<p><strong>Blockdiag</strong> generates beautiful diagram images from simple text format (similar to
+graphviz’s DOT format). Supports many types of diagrams</p>
+<ul>
+<li>block diagram (<code>blockdiag</code>)</li>
+<li>sequence diagram (<code>seqdiag</code>)</li>
+<li>activity diagram (<code>actdiag</code>)</li>
+<li>logical network diagram (<code>nwdiag</code>)</li>
+</ul>
+<p>Layouts diagram elements automatically. Embeds to many documentations; 
+Sphinx, Trac, Redmine and some wikis</p>
+<p>See a sample:</p>
+<p><img alt="Blockdiag sample" src="../blockdiag-sample.png" /></p>
+<h3 id="diagramcodes">▣ Diagram.Codes</h3>
+<ul>
+<li><a href="https://www.diagram.codes/">Diagram.codes</a></li>
+</ul>
+<p><strong>Diagram.Codes</strong> is a diagram generation tool. Describe your diagrams with a simple text
+language and automatically generate an image you can export.  There are several class of
+diagrams to generate: Graphs and hierarchies, time diagrams, mind maps, process modelling,
+flow charts, state machines, onions layers, stacks, and accept suggestions on new types. For
+example, the Flowchart Diagram allows yo to write this:</p>
+<pre><code>&quot;START&quot;
+IF &quot;is valid&quot;
+    &quot;do this&quot;
+    &quot;and that&quot;
+    IF &quot;Is it good?&quot;
+    &quot;Send email&quot;
+    ELSE
+    &quot;Save record&quot;
+    END IF
+ELSE
+    &quot;take another path&quot;
+    &quot;return&quot;
+ENDIF
+</code></pre>
+<p>And get this:</p>
+<p><img alt="Diagram.code Example" src="../diagram-code-sample.svg" /></p>
+<h3 id="diagrams">▣ Diagrams</h3>
+<ul>
+<li><a href="https://diagrams.mingrammer.com/">Homepage</a></li>
+<li><a href="https://diagrams.mingrammer.com/docs/examples">Examples</a></li>
+</ul>
+<p><strong>Diagrams</strong> (Diagrams as code) lets you draw the cloud system architecture in Python code.
+It was born for prototyping a new system architecture without any design tools. You can also
+describe or visualize the existing system architecture as well. Diagram as Code allows you
+to tracking the architecture diagram changes on any version control system. Currently
+supports three major cloud providers: AWS, Azure, GCP.</p>
+<p>See an example:</p>
+<p><img alt="Diagrams sample" src="../diagrams-sample.png" /></p>
+<h3 id="ditaa">▣ Ditaa</h3>
+<ul>
+<li><a href="http://ditaa.sourceforge.net/">Ditaa Home page</a></li>
+<li><a href="https://www.johndcook.com/blog/2016/06/14/ascii-art-diagrams/">ASCII art diagrams</a></li>
+</ul>
+<p><strong>Ditaa</strong> (DIagrams Throught Ascii Art) is a small command-line utility written in Java,
+that can convert diagrams drawn using ascii art ('drawings' that contain characters that
+resemble lines like | / - ), into proper bitmap graphics. This is best illustrated by the
+following example -- which also illustrates the benefits of using ditaa in comparison to
+other methods :)</p>
+<pre><code>    +--------+   +-------+    +-------+
+    |        | --+ ditaa +--&gt; |       |
+    |  Text  |   +-------+    |diagram|
+    |Document|   |!magic!|    |       |
+    |     {d}|   |       |    |       |
+    +---+----+   +-------+    +-------+
+        :                         ^
+        |       Lots of work      |
+        +-------------------------+
+</code></pre>
+<p>After conversion using ditaa, the above file becomes:</p>
+<p><img alt="Ditaa example" src="../ditaa-sample.png" /></p>
+<h3 id="erd">▣ ERD</h3>
+<ul>
+<li><a href="https://github.com/BurntSushi/erd">ERD homepage</a></li>
+</ul>
+<p><strong>ERD</strong> is a tool to translate a plain text description of a relational database schema to a
+graphical entity-relationship diagram. This utility takes a plain text description of
+entities, their attributes and the relationships between entities and produces a visual
+diagram modeling the description. The visualization is produced by using Dot with GraphViz.
+There are limited options for specifying color and font information. Also, ERD can output
+graphs in a variety of formats, including but not limited to: pdf, svg, eps, png, jpg, plain
+text and dot.</p>
+<p>See an example:</p>
+<p><img alt="ERD sample" src="../erd-sample.png" /></p>
+<h3 id="graphviz">▣ Graphviz</h3>
+<ul>
+<li><a href="https://graphviz.gitlab.io/">Graphviz homepage</a></li>
+<li><a href="https://graphviz.gitlab.io/gallery/">Graphviz gallery</a></li>
+<li><a href="https://sketchviz.com/graphviz-examples">Graphviz examples</a></li>
+<li><a href="https://graphviz.gitlab.io/documentation/">Graphviz Documentation</a></li>
+</ul>
+<p><strong>Graphviz</strong> (Graph Visualization Software) is an open source graph visualization software.
+Graph visualization is a way of representing structural information as diagrams of abstract
+graphs and networks. It has important applications in networking, bioinformatics,  software
+engineering, database and web design, machine learning, and in visual interfaces for other
+technical domains. </p>
+<p>The Graphviz layout programs take descriptions of graphs in a simple text language, and make
+diagrams in useful formats, such as images and SVG for web pages; PDF or Postscript for
+inclusion in other documents; or display in an interactive graph browser.  Graphviz has many
+useful features for concrete diagrams, such as options for colors, fonts, tabular node
+layouts, line styles, hyperlinks, and custom shapes. </p>
+<p>See an example:</p>
+<p><img alt="Graphviz sample" src="../graphviz-sample.png" /></p>
+<h3 id="lolviz">▣ Lolviz</h3>
+<ul>
+<li><a href="https://github.com/parrt/lolviz">https://github.com/parrt/lolviz</a></li>
+</ul>
+<p>A simple Python data-structure visualization tool for lists of lists, lists, dictionaries;
+primarily for use in Jupyter notebooks / presentations (But could be used in any place)</p>
+<p>A simple Python data-structure visualization tool that started out as a List Of Lists (lol)
+visualizer but now handles arbitrary object graphs, including function call stacks!  lolviz
+tries to look out for and format nicely common data structures such as lists, dictionaries,
+linked lists, and binary trees. This package is primarily for use in teaching and
+presentations with Jupyter notebooks, but could also be used for debugging data structures.
+Useful for devoting machine learning data structures, such as decision trees, as well.</p>
+<p>See an example:</p>
+<p><img alt="Lolviz Example" src="../lolviz-sample.png" /></p>
+<h3 id="mermaid">▣ Mermaid</h3>
+<ul>
+<li><a href="https://mermaidjs.github.io/">Mermaid home page</a></li>
+<li><a href="https://mermaidjs.github.io/mermaid-live-editor/">Online editor</a></li>
+<li><a href="https://github.com/mermaidjs/mermaid.cli">mermaid.cli: Command-line interface for mermaid</a></li>
+</ul>
+<p><strong>Mermaid</strong> is a tool to generate diagrams and flowcharts from text, in a similar manner as
+markdown, written in javascript. An editor is available for creating diagrams. With it you
+can quickly start writing mermaid diagrams. It is possible to:</p>
+<ul>
+<li>save the result as a svg</li>
+<li>get a link to a viewer of the diagram</li>
+<li>get a link to edit of the diagram to share a diagram so that someone else can tweak it and send a new link back</li>
+</ul>
+<p>See an example:</p>
+<p><img alt="Mermaid sample" src="../mermaid-sample.png" /></p>
+<h3 id="plantuml">▣ PlantUML</h3>
+<ul>
+<li><a href="http://plantuml.com/">PlantUML Homepage</a></li>
+<li><a href="http://www.plantuml.com/plantuml/uml/SoWkIImgAStDuNBAJrBGjLDmpCbCJbMmKiX8pSd91mlQwEf2HAqK79szkHnIyrA0wW40">PlantUML online generator</a></li>
+<li><a href="https://modeling-languages.com/interview-plantuml/">Interview with the author Arnaud Roques</a></li>
+<li><a href="http://plantuml.com/guide">Drawing UML with PlantULM Handbook</a></li>
+</ul>
+<p><strong>PlantUML</strong> is the most well-known UML tool in this category with millions of UML rendered.  We have
+covered it in-depth in this interview with his creator  but, in short, it supports all important UML
+diagrams (class, use case, activity, sequence, component, deployment and object diagrams but, to me,
+the strong point of this tool is the variety of scenarios in which can be used. There’s a huge
+ecosystem of tools around PlantUML to render textual UML diagrams anywhere you want.</p>
+<p>See an example:</p>
+<p><img alt="PlantUML sample" src="../plantuml-sample.png" /></p>
+<h3 id="shaape">▣ Shaape</h3>
+<ul>
+<li><a href="https://github.com/christiangoltz/shaape">Shaape homepage</a></li>
+</ul>
+<p><strong>Shaape</strong> is an ascii art to image converter designed to be used with asciidoc.  The word
+<strong>Shaape</strong> itself is a neologism from <strong>shape</strong> and <strong>ascii</strong> art.</p>
+<ul>
+<li>
+<p>Shaape is consistent between ascii source code and the produced image,
+  What-You-See-Is-What-You-Generate</p>
+</li>
+<li>
+<p>Shaape supports a very natural form of ascii drawing (see the examples below) and attempts
+  to keep the ascii source picture readable</p>
+</li>
+<li>
+<p>Shaape has an extensive feature set while maintaining a small and natural syntax</p>
+</li>
+</ul>
+<p>From this text imput:</p>
+<pre><code>    *----------*          
+    *            *        
+    |            |       
+    |  A&lt;----------+     
+    |            | |     
+    |       *----+-|---* 
+    |      *     | |    *
+    *      |union* |    |
+    *-----+----*  |    |
+        |       v    |  
+        |       B    | 
+        *            * 
+            *----------*  
+
+options:
+- &quot;.*&quot;: {frame:[[0, 0, 0, 0], 1]}
+- &quot;A&quot;: {fill:[[1,1,1,1],[0.4, 0, 0, 1]]}
+- &quot;B&quot;: {fill:[[0, 0, 0.4, 1],[1,1,1,1]]}
+- &quot;union&quot;: {fill:[[0.7, 0.2, 0.2, 1], [0.2, 0.2, 0.7, 1], no-shadow]}
+</code></pre>
+<p>You get this image:</p>
+<p><img alt="Shaape output" src="../shaape-01.png" /></p>
+<p>See a more elaborated example:</p>
+<p><img alt="Shaape sample" src="../shaape-sample.png" /></p>
+<h3 id="sketchviz">▣ Sketchviz</h3>
+<ul>
+<li><a href="https://sketchviz.com/">Sketchviz homepage</a></li>
+<li><a href="https://sketchviz.com/about">Sketchviz about page</a></li>
+</ul>
+<p><strong>Sketchviz</strong> is a free service provided by <a href="https://code402.com/">Code 402, Inc</a>. You can
+use it anonymously, or connect to GitHub. If you connect to GitHub, you can use your saved
+gists to embed Graphviz graphs in webpages. Graphs are rendered using the Graphviz graph
+visualization tool but using a <em>sketchy</em> style. Alos uses some hand-made like fonts: The
+Tinos (default), Handlee and Sedgwick Ave font families can be used.</p>
+<p>Let's see a sample. From this text:</p>
+<pre><code># http://www.graphviz.org/content/cluster
+
+digraph G {
+  graph [fontname = &quot;Handlee&quot;];
+  node [fontname = &quot;Handlee&quot;];
+  edge [fontname = &quot;Handlee&quot;];
+
+  bgcolor=transparent;
+
+  subgraph cluster_0 {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=pink];
+    a0 -&gt; a1 -&gt; a2 -&gt; a3;
+    label = &quot;*process #1*&quot;;
+    fontsize = 20;
+  }
+
+  subgraph cluster_1 {
+    node [style=filled];
+    b0 -&gt; b1 -&gt; b2 -&gt; b3;
+    label = &quot;*process #2*&quot;;
+    fontsize = 20;
+    color=blue
+  }
+  start -&gt; a0;
+  start -&gt; b0;
+  a1 -&gt; b3;
+  b2 -&gt; a3;
+  a3 -&gt; a0;
+  a3 -&gt; end;
+  b3 -&gt; end;
+
+  start [shape=Mdiamond];
+  end [shape=Msquare];
+}
+</code></pre>
+<p>you get this image:</p>
+<p><img alt="Sketchviz sample" src="../sketchviz-sample.png" /></p>
+<h3 id="syntrax">▣ Syntrax</h3>
+<ul>
+<li><a href="https://kevinpt.github.io/syntrax/">Syntrax homepage</a></li>
+</ul>
+<p><strong>Syntrax</strong> is a railroad diagram generator. It creates a visual illustration of the grammar
+used for programming languages. A specification file describes the syntax as a hierarchy of
+basic elements. This is processed into an image representing the same syntax with
+interconnected nodes.</p>
+<p>The specification is a set of nested Python function calls:</p>
+<pre><code>indentstack(10,
+    line(opt('-'), choice('0', line('1-9', loop(None, '0-9'))),
+    opt('.', loop('0-9', None))),
+    line(opt(choice('e', 'E'), choice(None, '+', '-'), loop('0-9', None)))
+)
+</code></pre>
+<p>This is processed by Syntrax to generate an SVG image:</p>
+<p><img alt="Syntrax sample" src="../syntrax-sample.svg" /></p>
+<h3 id="wavedrom">▣ WaveDrom</h3>
+<ul>
+<li><a href="https://wavedrom.com/">Wavedrom homepage</a></li>
+<li><a href="https://github.com/wavedrom/wavedrom">Project source code in Github</a></li>
+</ul>
+<p>WaveDrom (Digital Timing Diagram everywhere) draws your Timing Diagram or Waveform from
+simple textual description.  It comes with description language, rendering engine and the
+editor.  WaveDrom editor works in the browser or can be installed on your system.  Rendering
+engine can be embeded into any webpage.</p>
+<p>a quick example. Following code will create 1-bit signal named "Alfa" that changes its state
+over time.</p>
+<pre><code>{ signal: [{ name: &quot;Alfa&quot;, wave: &quot;01.zx=ud.23.456789&quot; }] }
+</code></pre>
+<p>Every character in the "wave" string represents a single time period. Symbol "." extends previous state for one more period. Here is how it looks:</p>
+<p><img alt="Wavedrom single line sample" src="../wavedrom-01.svg" /></p>
+<p>A more elaborated example:</p>
+<p>This input:</p>
+<pre><code>{ signal: [
+    { name: &quot;clk&quot;,         wave: &quot;p.....|...&quot; },
+    { name: &quot;Data&quot;,        wave: &quot;x.345x|=.x&quot;, data: [&quot;head&quot;, &quot;body&quot;, &quot;tail&quot;, &quot;data&quot;] },
+    { name: &quot;Request&quot;,     wave: &quot;0.1..0|1.0&quot; },
+    {},
+    { name: &quot;Acknowledge&quot;, wave: &quot;1.....|01.&quot; }
+]}
+</code></pre>
+<p>Generates this image:</p>
+<p><img alt="Wavedrom sample" src="../wavedrom-sample.svg" /></p>
+<h3 id="to-do">To do</h3>
+<ul>
+<li><a href="https://gephi.org/users/quick-start/">https://gephi.org/users/quick-start/</a></li>
+</ul>
+<h3 id="more-info">More info</h3>
+<ul>
+<li>
+<p><a href="https://ingenieriadesoftware.es/la-manera-mas-rapida-de-crear-diagramas-uml-10-herramientas-online-para-el-modelado-textual/">La manera más rápida de crear diagramas uml: 10+ herramientas online para el modelado textual</a></p>
+</li>
+<li>
+<p><a href="https://asciidoctor.org/docs/">ASciidoctor Diagram</a> - a set of Asciidoctor extensions that enable you to add diagrams, which you describe using plain text, to your AsciiDoc document.</p>
+</li>
+<li>
+<p><a href="https://roughjs.com/">Rough.js</a> - Create graphics with a hand-drawn, sketchy, appearance</p>
+</li>
+</ul>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../music/" class="btn btn-neutral float-right" title="Sound and Music">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../images/" class="btn btn-neutral" title="Images"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../images/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../music/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
