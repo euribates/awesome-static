@@ -6,11 +6,14 @@
 - [Fonts](fonts.md)
 - [Game Assets](game-assets.md)
 - [Icons](icons.md)
-- [Ilustrations](illustrations.md)
 - [Images Banks](images.md)
 - [Music and Sound](music.md)
+- [Diagrams from text](diagrams-from-text.md)
+- [Patterns](patterns.md)
 - [Patterns](patterns.md)
 - [Photos](photos.md)
+- [Placeholders](placeholders.md)
+- [Vector Ilustrations](illustrations.md)
 
 ## Multiple resources
 
