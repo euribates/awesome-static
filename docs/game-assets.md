@@ -1,41 +1,50 @@
-## Game Assets
+---
+title: Game Assets
+---
 
-### Kenney
+[TOC]
 
-Free game assets, including images, aufio files and 3D models. Public Comain license
+### ▣ Kenney
 
-- Homepage: <http://kenney.nl/>
+<http://kenney.nl/>
 
-### Createboy
-
-https://crateboy.itch.io/
-
-### GameArt2d.comr
-
-Free assets for everyone
-
-- homepage: <https://www.gameart2d.com/freebies.html>
+Free game assets, including images, aufio files and 3D models. Public Comain
+license. This man in awesome!
 
 
-### OpenGameArt
+### ▣ Createboy
+
+<https://crateboy.itch.io/>
+
+
+### ▣ GameArt2d.comr
+
+<https://www.gameart2d.com/freebies.html>
+
+Free assets for everyone.
+
+
+### ▣ OpenGameArt
+
+<https://opengameart.org/>
 
 Assets creators community
 
-- Homepage: <https://opengameart.org/>
+
+### ▣ Widgetworx spritelab
+
+<https://www.widgetworx.com/spritelib/>
+
+**SpriteLib** is a collection of static and animated graphic objects (also
+commonly known as sprites) that Ari Feldman created between 1992 and 2002 for
+his own game projects. Seeing how it could benefit others, he decided  to offer
+it to hobbyist game developers to use in their creations free of charge. 
 
 
-### Widgetworx spritelab
+### ▣ Unity Asset Store
 
-SpriteLib is a collection of static and animated graphic objects (also commonly known as
-sprites) that Ari Feldman created between 1992 and 2002 for his own game projects. Seeing
-how it could benefit others, he decided  to offer it to hobbyist game developers to use
-in their creations free of charge. 
+<https://assetstore.unity.com/>
 
-- Homepage: <https://www.widgetworx.com/spritelib/>
+Unity Ever-Growing Library Of Textures, Models, Animations, Tutorials, And More. Many of then are free
 
-### Unity Asset Store
-
-> Unity Ever-Growing Library Of Textures, Models, Animations, Tutorials, And More. Many of then are free
-
-- Homepage: <https://assetstore.unity.com/>
 

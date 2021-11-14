@@ -1,15 +1,16 @@
 site_name: Awesome static
-theme: readthedocs
+theme:
+  name: material
 nav:
-    - Home: index.md
+
     - CSS: css.md
+    - Diagrams from text: diagrams-from-text.md
     - Fonts: fonts.md
     - Game Assets: game-assets.md
-    - Patterns: patterns.md
-    - Placeholders: placeholders.md
-    - Photos: photos.md
     - Icons: icons.md
-    - Images: images.md
-    - Diagrams from text: diagrams-from-text.md
-    - Sound and Music: music.md
-    - Vector Illustrations: illustrations.md
+    - Images Banks: images.md
+    - Music and Sound: music.md
+    - Patterns: patterns.md
+    - Photos: photos.md
+    - Placeholders: placeholders.md
+    - Vector Ilustrations: illustrations.md

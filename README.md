@@ -1,38 +1,28 @@
 ## Awesome static meta-resources
 
-This repositry is a curated collection of static resources (logos,
-photos, sounds, textures, etc...) useful for several kind of projects,
-like games, web sites, movies, multimedia apps, 3D modeling, etc...
+This repository is a curated collection of static resources (logos,
+photos, sounds, textures, etc...) useful for several kinds of projects,
+like games, websites, movies, multimedia apps, 3D modeling, etc...
 
 You can access the content on
 [https://euribates.github.io/awesome-static/](https://euribates.github.io/awesome-static/).
 
-At the moment there are 10 main sections:
+At the moment there are 11 main sections:
 
-- [CSS](docs/css.md)
-
-- [Fonts](docs/fonts.md)
-
-- [Game Assets](docs/game-assets.md)
-
-- [Icons](docs/icons.md)
-
-- [Illustrations](docs/illustrations.md)
-
-- [Images Banks](docs/images.md)
-
-- [Music and Sounds](docs/music.md) Free music, sound effects
-
-- [Placeholders](docs/placeholders.md) For web and print desings
-
-- [Patterns](docs/patterns.md)
-
-- [Photos](docs/photos.md)
-
+- [CSS](css.md)
+- [Diagrams from text](diagrams-from-text.md)
+- [Fonts](fonts.md)
+- [Game Assets](game-assets.md)
+- [Icons](icons.md)
+- [Images Banks](images.md)
+- [Music and Sound](music.md)
+- [Patterns](patterns.md)
+- [Photos](photos.md)
+- [Placeholders](placeholders.md)
+- [Vector Ilustrations](illustrations.md)
 
 To contribute, just send the ussual Pull Request or just [add an issue
-to this
-repository](https://github.com/euribates/awesome-static/issues/new).
+to this repository](https://github.com/euribates/awesome-static/issues/new).
 
 ### How to create a local copy 
 

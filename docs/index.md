@@ -3,17 +3,18 @@
 ## Awesome static meta-resources
 
 - [CSS](css.md)
+- [Diagrams from text](diagrams-from-text.md)
 - [Fonts](fonts.md)
 - [Game Assets](game-assets.md)
 - [Icons](icons.md)
 - [Images Banks](images.md)
 - [Music and Sound](music.md)
-- [Diagrams from text](diagrams-from-text.md)
-- [Patterns](patterns.md)
 - [Patterns](patterns.md)
 - [Photos](photos.md)
 - [Placeholders](placeholders.md)
+- [Placeholders](placeholders.md)
 - [Vector Ilustrations](illustrations.md)
+
 
 ## Multiple resources
 

@@ -1,28 +1,45 @@
-## Royalty-Free photographies
+---
+title: Royalty-Free photographies
+---
 
-### Flickr <https://www.flickr.com/> 
+[TOC]
 
-  >Look for copyleft licenses>
 
-### Pexels <http://www.pexels.com/>
+### ▣ Flickr
 
-> The best free stock photos & videos shared by talented creators.
+<https://www.flickr.com/> 
 
-### Pixabay <https://pixabay.com/>
+Look for copyleft licenses
 
-> Over 1 million+ high quality stock images and videos shared by our talented community.
+### ▣ Pexels
+
+<http://www.pexels.com/>
+
+The best free stock photos & videos shared by talented creators.
+
+### ▣ Pixabay
+
+<https://pixabay.com/>
+
+Over 1 million+ high quality stock images and videos shared by our talented community.
  
-### Snapwire Snaps <http://snapwiresnaps.tumblr.com/>
+### ▣ Snapwire Snaps
 
-> 7 free beautiful photos every 7 days. License and commission photos from 200,000 of the world's
-> most talented photographers
+<http://snapwiresnaps.tumblr.com/>
 
-### StockSnap <https://stocksnap.io/>
+7 free beautiful photos every 7 days. License and commission photos from
+200,000 of the world's most talented photographers
 
-> Beautiful free stock photos Hundreds of high resolution images added weekly. Free from copyright
-> restrictions.
+### ▣ StockSnap
 
-### Unsplash <https://unsplash.com/>
+<https://stocksnap.io/>
 
-> The internet’s source of freely usable images. Powered by creators everywhere.
+Beautiful free stock photos Hundreds of high resolution images added weekly.
+Free from copyright restrictions.
+
+### ▣ Unsplash
+
+<https://unsplash.com/>
+
+The internet’s source of freely usable images. Powered by creators everywhere.
 
