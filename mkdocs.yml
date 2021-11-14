@@ -1,5 +1,6 @@
 site_name: Awesome static
-theme: readthedocs
+theme:
+  name: material
 nav:
     - Home: index.md
     - CSS: css.md

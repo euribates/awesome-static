@@ -1,8 +1,8 @@
 ## Awesome static meta-resources
 
-This repositry is a curated collection of static resources (logos,
-photos, sounds, textures, etc...) useful for several kind of projects,
-like games, web sites, movies, multimedia apps, 3D modeling, etc...
+This repository is a curated collection of static resources (logos,
+photos, sounds, textures, etc...) useful for several kinds of projects,
+like games, websites, movies, multimedia apps, 3D modeling, etc...
 
 You can access the content on
 [https://euribates.github.io/awesome-static/](https://euribates.github.io/awesome-static/).
@@ -31,8 +31,7 @@ At the moment there are 10 main sections:
 
 
 To contribute, just send the ussual Pull Request or just [add an issue
-to this
-repository](https://github.com/euribates/awesome-static/issues/new).
+to this repository](https://github.com/euribates/awesome-static/issues/new).
 
 ### How to create a local copy 
 
