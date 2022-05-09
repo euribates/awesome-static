@@ -272,6 +272,21 @@ See an example:
 
 ![PlantUML sample](plantuml-sample.png)
 
+
+### ▣ Regex-Vis
+
+- [Regex-Vis](https://regex-vis.com/)
+
+**Regex-Vis** is a [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression) visualizer and editor, that make the regular expression easier to understand and debug. Form this expression:
+
+```
+(TF|GC)-?\d{4,5}-?[A-Z]
+```
+
+The outcome is:
+
+![Regex-Vis](./regex-vis.png)
+
 ### ▣ Shaape
 
 - [Shaape homepage](https://github.com/christiangoltz/shaape)
@@ -399,9 +414,8 @@ This is processed by Syntrax to generate an SVG image:
 
 ![Syntrax sample](syntrax-sample.svg)
 
+
 ### ▣ WaveDrom
-
-
 
 - [Wavedrom homepage](https://wavedrom.com/)
 - [Project source code in Github](https://github.com/wavedrom/wavedrom)
@@ -440,7 +454,7 @@ Generates this image:
 
 ![Wavedrom sample](wavedrom-sample.svg)
 
-### To do
+### ▣ To do
 
 - <https://gephi.org/users/quick-start/>
 
