@@ -12,7 +12,6 @@
 - [Patterns](patterns.md)
 - [Photos](photos.md)
 - [Placeholders](placeholders.md)
-- [Placeholders](placeholders.md)
 - [Vector Ilustrations](illustrations.md)
 
 
