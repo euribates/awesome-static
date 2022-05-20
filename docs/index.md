@@ -12,7 +12,7 @@
 - [Patterns](patterns.md)
 - [Photos](photos.md)
 - [Placeholders](placeholders.md)
-- [Vector Ilustrations](illustrations.md)
+- [Vector Ilustrations and logos](illustrations.md)
 
 
 ## Multiple resources
