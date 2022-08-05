@@ -9,17 +9,25 @@ You can access the content on
 
 At the moment there are 11 main sections:
 
-- [CSS](css.md)
-- [Diagrams from text](diagrams-from-text.md)
-- [Fonts](fonts.md)
-- [Game Assets](game-assets.md)
-- [Icons](icons.md)
-- [Images Banks](images.md)
-- [Music and Sound](music.md)
-- [Patterns](patterns.md)
-- [Photos](photos.md)
-- [Placeholders](placeholders.md)
-- [Vector Ilustrations](illustrations.md)
+- [CSS](docs/css.md)
+
+- [Fonts](docs/fonts.md)
+
+- [Game Assets](docs/game-assets.md)
+
+- [Icons](docs/icons.md)
+
+- [Illustrations](docs/illustrations.md)
+
+- [Images Banks](docs/images.md)
+
+- [Music and Sounds](docs/music.md) Free music, sound effects
+
+- [Placeholders](docs/placeholders.md) For web and print desings
+
+- [Patterns](docs/patterns.md)
+
+- [Photos](docs/photos.md)
 
 To contribute, just send the ussual Pull Request or just [add an issue
 to this repository](https://github.com/euribates/awesome-static/issues/new).
