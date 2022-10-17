@@ -32,6 +32,17 @@ Node.js, Gulp, Grunt and CDN.
 
 ![Evil Icons example](evil-icons-sample.png)
 
+### ▣ Feather
+
+- [Feather icons](https://feathericons.com/)
+
+Simply beautiful, customizable open source icons. Some samples:
+
+- ![Aperture](aperture.svg)
+- ![Award](award.svg)
+- ![Box](box.svg)
+
+
 ### ▣ Flaticon
 
 - [Flaticon Home page](https://www.flaticon.com/)
