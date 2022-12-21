@@ -9,7 +9,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.15">
+      <meta name="generator" content="mkdocs-1.4.1, mkdocs-material-8.5.1">
     
     
       
@@ -17,12 +17,14 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.c382b1dc.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.2e8b5541.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.cc9b2e1e.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.cbb835fc.min.css">
         
       
+      
+
     
     
     
@@ -35,10 +37,11 @@
       
     
     
-    <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
+    
     
     
   </head>
@@ -115,7 +118,7 @@
       </label>
       <nav class="md-search__options" aria-label="Search">
         
-        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
         </button>
       </nav>
@@ -239,6 +242,13 @@
         <li class="md-nav__item">
   <a href="#blockdiag" class="md-nav__link">
     ▣ Blockdiag
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#d2" class="md-nav__link">
+    D2
   </a>
   
 </li>
@@ -537,6 +547,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#d2" class="md-nav__link">
+    D2
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#diagramcodes" class="md-nav__link">
     ▣ Diagram.Codes
   </a>
@@ -649,10 +666,11 @@
               </div>
             
           
-          <div class="md-content" data-md-component="content">
-            <article class="md-content__inner md-typeset">
-              
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
                 
+                  
 
 
   <h1>Diagrams from text</h1>
@@ -662,6 +680,7 @@
 <li><a href="#asciiflow">▣ ASCIIFlow</a></li>
 <li><a href="#asymptote">▣ Asymptote</a></li>
 <li><a href="#blockdiag">▣ Blockdiag</a></li>
+<li><a href="#d2">D2</a></li>
 <li><a href="#diagramcodes">▣ Diagram.Codes</a></li>
 <li><a href="#diagrams">▣ Diagrams</a></li>
 <li><a href="#ditaa">▣ Ditaa</a></li>
@@ -699,7 +718,6 @@ HTML or text.</p>
       │       FEEDBACK              │
       └─────────────────────────────┘
 </code></pre>
-
 <h3 id="asymptote">▣ Asymptote</h3>
 <ul>
 <li><a href="https://asymptote.sourceforge.io/">Asymptote homepage</a></li>
@@ -770,6 +788,13 @@ graphviz’s DOT format). Supports many types of diagrams</p>
 Sphinx, Trac, Redmine and some wikis</p>
 <p>See a sample:</p>
 <p><img alt="Blockdiag sample" src="../blockdiag-sample.png" /></p>
+<h3 id="d2">D2</h3>
+<p><strong>D2</strong> is a diagram scripting language that turns text to diagrams. It stands
+for Declarative Diagramming. Declarative, as in, you describe what you want
+diagrammed, it generates the image.</p>
+<p>For example, you provide this input on the left, and you get back the output on
+the right.</p>
+<p><img alt="D2 Example" src="../D2-sample.png" /></p>
 <h3 id="diagramcodes">▣ Diagram.Codes</h3>
 <ul>
 <li><a href="https://www.diagram.codes/">Diagram.codes</a></li>
@@ -793,7 +818,6 @@ ELSE
     &quot;return&quot;
 ENDIF
 </code></pre>
-
 <p>And get this:</p>
 <p><img alt="Diagram.code Example" src="../diagram-code-sample.svg" /></p>
 <h3 id="diagrams">▣ Diagrams</h3>
@@ -828,7 +852,6 @@ other methods :)</p>
         |       Lots of work      |
         +-------------------------+
 </code></pre>
-
 <p>After conversion using ditaa, the above file becomes:</p>
 <p><img alt="Ditaa example" src="../ditaa-sample.png" /></p>
 <h3 id="erd">▣ ERD</h3>
@@ -914,7 +937,6 @@ ecosystem of tools around PlantUML to render textual UML diagrams anywhere you w
 <p><strong>Regex-Vis</strong> is a <a href="https://en.wikipedia.org/wiki/Regular_expression">Regular Expressions</a> visualizer and editor, that make the regular expression easier to understand and debug. Form this expression:</p>
 <pre><code>(TF|GC)-?\d{4,5}-?[A-Z]
 </code></pre>
-
 <p>The outcome is:</p>
 <p><img alt="Regex-Vis" src="../regex-vis.png" /></p>
 <h3 id="shaape">▣ Shaape</h3>
@@ -957,7 +979,6 @@ options:
 - &quot;B&quot;: {fill:[[0, 0, 0.4, 1],[1,1,1,1]]}
 - &quot;union&quot;: {fill:[[0.7, 0.2, 0.2, 1], [0.2, 0.2, 0.7, 1], no-shadow]}
 </code></pre>
-
 <p>You get this image:</p>
 <p><img alt="Shaape output" src="../shaape-01.png" /></p>
 <p>See a more elaborated example:</p>
@@ -1010,7 +1031,6 @@ digraph G {
   end [shape=Msquare];
 }
 </code></pre>
-
 <p>you get this image:</p>
 <p><img alt="Sketchviz sample" src="../sketchviz-sample.png" /></p>
 <h3 id="syntrax">▣ Syntrax</h3>
@@ -1028,7 +1048,6 @@ interconnected nodes.</p>
     line(opt(choice('e', 'E'), choice(None, '+', '-'), loop('0-9', None)))
 )
 </code></pre>
-
 <p>This is processed by Syntrax to generate an SVG image:</p>
 <p><img alt="Syntrax sample" src="../syntrax-sample.svg" /></p>
 <h3 id="wavedrom">▣ WaveDrom</h3>
@@ -1044,7 +1063,6 @@ engine can be embeded into any webpage.</p>
 over time.</p>
 <pre><code>{ signal: [{ name: &quot;Alfa&quot;, wave: &quot;01.zx=ud.23.456789&quot; }] }
 </code></pre>
-
 <p>Every character in the "wave" string represents a single time period. Symbol "." extends previous state for one more period. Here is how it looks:</p>
 <p><img alt="Wavedrom single line sample" src="../wavedrom-01.svg" /></p>
 <p>A more elaborated example:</p>
@@ -1057,7 +1075,6 @@ over time.</p>
     { name: &quot;Acknowledge&quot;, wave: &quot;1.....|01.&quot; }
 ]}
 </code></pre>
-
 <p>Generates this image:</p>
 <p><img alt="Wavedrom sample" src="../wavedrom-sample.svg" /></p>
 <h3 id="to-do">▣ To do</h3>
@@ -1077,16 +1094,23 @@ over time.</p>
 </li>
 </ul>
 
-              
-            </article>
-          </div>
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
         </div>
         
       </main>
       
         <footer class="md-footer">
   
-    <nav class="md-footer__inner md-grid" aria-label="Footer">
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
       
         
         <a href="../css/" class="md-footer__link md-footer__link--prev" aria-label="Previous: CSS" rel="prev">
@@ -1141,10 +1165,11 @@ over time.</p>
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.ecf98df9.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.a6c66575.min.js"></script>
+      <script src="../assets/javascripts/bundle.d691e9de.min.js"></script>
       
     
   </body>
