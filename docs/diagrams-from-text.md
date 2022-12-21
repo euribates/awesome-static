@@ -94,6 +94,18 @@ See a sample:
 
 ![Blockdiag sample](blockdiag-sample.png)
 
+### ▣ D2
+
+- [D2](https://d2lang.com/tour/intro/)
+
+**D2** is a diagram scripting language that turns text to diagrams. It stands
+for Declarative Diagramming. Declarative, as in, you describe what you want
+diagrammed, it generates the image.
+
+For example, you provide this input on the left, and you get back the output on
+the right.
+
+![D2 Example](./D2-sample.png)
 
 ### ▣ Diagram.Codes
 
