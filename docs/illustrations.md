@@ -106,3 +106,9 @@ Vectorwiki, share the URL with your friends and colleagues and come back
 regularly to discover our curation of vector logos and icons. You can use them
 for your creative projects in Figma, Sketch, Photoshop and other leading design
 software
+
+### ▣ World Vector Logo
+
+[https://worldvectorlogo.com/](https://worldvectorlogo.com/)
+
+Download vector logos of brands you love.
