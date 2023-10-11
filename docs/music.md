@@ -4,6 +4,24 @@ title: Music and sound effects resources
 
 [TOC]
 
+### ▣ 101 Sound Boards
+
+[https://www.101soundboards.com/](https://www.101soundboards.com/)
+
+Explore millions of sounds. Search or browse by category. Favorite sounds and
+upload your own to create your own soundboard. Read text aloud with
+text-to-speech voices. Create an account for more features. Have fun playing
+sounds!
+
+Note: You get 10 free downloads from this site every month.
+
+This is a sample:
+
+<audio controls autoplay>
+    <source src="laser.mp3" type="audio/wav">
+    Your browser does not support the audio element.
+</audio>
+
 ### ▣ BigSoundBank
 
 <https://bigsoundbank.com/>
