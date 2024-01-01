@@ -23,6 +23,13 @@ license. This man in awesome!
 
 Free assets for everyone.
 
+### ▣ Game-icons
+
+Already 4131 free icons for your games
+
+<https://game-icons.net/>
+
+Sample: ![Helmet](./frog-mouth-helm.png)
 
 ### ▣ OpenGameArt
 
