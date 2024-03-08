@@ -345,6 +345,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#ts-diagram" class="md-nav__link">
+    TS Diagram
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#to-do" class="md-nav__link">
     ▣ To do
   </a>
@@ -645,6 +652,13 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#ts-diagram" class="md-nav__link">
+    TS Diagram
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#to-do" class="md-nav__link">
     ▣ To do
   </a>
@@ -694,6 +708,7 @@
 <li><a href="#sketchviz">▣ Sketchviz</a></li>
 <li><a href="#syntrax">▣ Syntrax</a></li>
 <li><a href="#wavedrom">▣ WaveDrom</a></li>
+<li><a href="#ts-diagram">TS Diagram</a></li>
 <li><a href="#to-do">▣ To do</a></li>
 <li><a href="#more-info">More info</a></li>
 </ul>
@@ -1080,6 +1095,57 @@ over time.</p>
 </code></pre>
 <p>Generates this image:</p>
 <p><img alt="Wavedrom sample" src="../wavedrom-sample.svg" /></p>
+<h3 id="ts-diagram">TS Diagram</h3>
+<p>Generate diagrams based on Typescript</p>
+<p>This input:</p>
+<pre><code class="language-tscript">interface Node {
+  id: string;
+  path: string;
+  source: string;
+  get meta(): Record&lt;string, unknown&gt;;
+  get title(): string;
+  get links(): Node[];
+  get backlinks(): Node[];
+  get tasks(): Task[];
+};
+
+interface Task {
+  title: string;
+  children: Task[];
+  status: &quot;default&quot; | &quot;active&quot; | &quot;done&quot; | &quot;cancelled&quot;;
+  schedule: TaskSchedule;
+  sessions: TaskSession[];
+  get isInProgress(): boolean;
+}
+
+interface TaskSchedule {
+  start: Date;
+  end: Date;
+  get duration(): number;
+  get isCurrent(): boolean;
+}
+
+interface TaskSession {
+  start: Date;
+  end?: Date;
+  get duration(): number;
+  get isCurrent(): boolean;
+}
+
+class Wiki {
+  rootPath: string;
+
+  constructor(rootPath: string) {
+    this.rootPath = rootPath;
+  }
+
+  getNodes(): Node[] {
+    return [];
+  }
+}
+</code></pre>
+<p>Looks like:</p>
+<p><img alt="TSDiagram sample" src="../ts_diagram.png" /></p>
 <h3 id="to-do">▣ To do</h3>
 <ul>
 <li><a href="https://gephi.org/users/quick-start/">https://gephi.org/users/quick-start/</a></li>
