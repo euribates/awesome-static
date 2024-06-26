@@ -338,15 +338,22 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#wavedrom" class="md-nav__link">
-    ▣ WaveDrom
+  <a href="#treeflex" class="md-nav__link">
+    ▣ TreeFlex
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#ts-diagram" class="md-nav__link">
-    TS Diagram
+    ▣ TS Diagram
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wavedrom" class="md-nav__link">
+    ▣ WaveDrom
   </a>
   
 </li>
@@ -645,15 +652,22 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#wavedrom" class="md-nav__link">
-    ▣ WaveDrom
+  <a href="#treeflex" class="md-nav__link">
+    ▣ TreeFlex
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#ts-diagram" class="md-nav__link">
-    TS Diagram
+    ▣ TS Diagram
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wavedrom" class="md-nav__link">
+    ▣ WaveDrom
   </a>
   
 </li>
@@ -707,8 +721,9 @@
 <li><a href="#shaape">▣ Shaape</a></li>
 <li><a href="#sketchviz">▣ Sketchviz</a></li>
 <li><a href="#syntrax">▣ Syntrax</a></li>
+<li><a href="#treeflex">▣ TreeFlex</a></li>
+<li><a href="#ts-diagram">▣ TS Diagram</a></li>
 <li><a href="#wavedrom">▣ WaveDrom</a></li>
-<li><a href="#ts-diagram">TS Diagram</a></li>
 <li><a href="#to-do">▣ To do</a></li>
 <li><a href="#more-info">More info</a></li>
 </ul>
@@ -1068,34 +1083,9 @@ interconnected nodes.</p>
 </code></pre>
 <p>This is processed by Syntrax to generate an SVG image:</p>
 <p><img alt="Syntrax sample" src="../syntrax-sample.svg" /></p>
-<h3 id="wavedrom">▣ WaveDrom</h3>
-<ul>
-<li><a href="https://wavedrom.com/">Wavedrom homepage</a></li>
-<li><a href="https://github.com/wavedrom/wavedrom">Project source code in Github</a></li>
-</ul>
-<p>WaveDrom (Digital Timing Diagram everywhere) draws your Timing Diagram or Waveform from
-simple textual description.  It comes with description language, rendering engine and the
-editor.  WaveDrom editor works in the browser or can be installed on your system.  Rendering
-engine can be embeded into any webpage.</p>
-<p>a quick example. Following code will create 1-bit signal named "Alfa" that changes its state
-over time.</p>
-<pre><code>{ signal: [{ name: &quot;Alfa&quot;, wave: &quot;01.zx=ud.23.456789&quot; }] }
-</code></pre>
-<p>Every character in the "wave" string represents a single time period. Symbol "." extends previous state for one more period. Here is how it looks:</p>
-<p><img alt="Wavedrom single line sample" src="../wavedrom-01.svg" /></p>
-<p>A more elaborated example:</p>
-<p>This input:</p>
-<pre><code>{ signal: [
-    { name: &quot;clk&quot;,         wave: &quot;p.....|...&quot; },
-    { name: &quot;Data&quot;,        wave: &quot;x.345x|=.x&quot;, data: [&quot;head&quot;, &quot;body&quot;, &quot;tail&quot;, &quot;data&quot;] },
-    { name: &quot;Request&quot;,     wave: &quot;0.1..0|1.0&quot; },
-    {},
-    { name: &quot;Acknowledge&quot;, wave: &quot;1.....|01.&quot; }
-]}
-</code></pre>
-<p>Generates this image:</p>
-<p><img alt="Wavedrom sample" src="../wavedrom-sample.svg" /></p>
-<h3 id="ts-diagram">TS Diagram</h3>
+<h3 id="treeflex">▣ TreeFlex</h3>
+<p><strong><a href="https://dumptyd.github.io/treeflex/">TreeFlex</a></strong> is a CSS library for drawing hierarchy trees</p>
+<h3 id="ts-diagram">▣ TS Diagram</h3>
 <p>Generate diagrams based on Typescript</p>
 <p>This input:</p>
 <pre><code class="language-tscript">interface Node {
@@ -1146,6 +1136,33 @@ class Wiki {
 </code></pre>
 <p>Looks like:</p>
 <p><img alt="TSDiagram sample" src="../ts_diagram.png" /></p>
+<h3 id="wavedrom">▣ WaveDrom</h3>
+<ul>
+<li><a href="https://wavedrom.com/">Wavedrom homepage</a></li>
+<li><a href="https://github.com/wavedrom/wavedrom">Project source code in Github</a></li>
+</ul>
+<p>WaveDrom (Digital Timing Diagram everywhere) draws your Timing Diagram or Waveform from
+simple textual description.  It comes with description language, rendering engine and the
+editor.  WaveDrom editor works in the browser or can be installed on your system.  Rendering
+engine can be embeded into any webpage.</p>
+<p>a quick example. Following code will create 1-bit signal named "Alfa" that changes its state
+over time.</p>
+<pre><code>{ signal: [{ name: &quot;Alfa&quot;, wave: &quot;01.zx=ud.23.456789&quot; }] }
+</code></pre>
+<p>Every character in the "wave" string represents a single time period. Symbol "." extends previous state for one more period. Here is how it looks:</p>
+<p><img alt="Wavedrom single line sample" src="../wavedrom-01.svg" /></p>
+<p>A more elaborated example:</p>
+<p>This input:</p>
+<pre><code>{ signal: [
+    { name: &quot;clk&quot;,         wave: &quot;p.....|...&quot; },
+    { name: &quot;Data&quot;,        wave: &quot;x.345x|=.x&quot;, data: [&quot;head&quot;, &quot;body&quot;, &quot;tail&quot;, &quot;data&quot;] },
+    { name: &quot;Request&quot;,     wave: &quot;0.1..0|1.0&quot; },
+    {},
+    { name: &quot;Acknowledge&quot;, wave: &quot;1.....|01.&quot; }
+]}
+</code></pre>
+<p>Generates this image:</p>
+<p><img alt="Wavedrom sample" src="../wavedrom-sample.svg" /></p>
 <h3 id="to-do">▣ To do</h3>
 <ul>
 <li><a href="https://gephi.org/users/quick-start/">https://gephi.org/users/quick-start/</a></li>
