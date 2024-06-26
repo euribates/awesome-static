@@ -61,6 +61,14 @@ and BASE 64 formats.
 use in your web projects.
 
 
+### ▣ Hugeicons
+
+Beautiful icon library, made for creativity. +3,800 Free icons. +27.000
+customizable Icons in the Pro package.
+
+- [Hugeicons Home page](https://hugeicons.com/)
+
+
 ### ▣ Iconduck
 
 - [Iconduck Home page](https://iconduck.com/)
