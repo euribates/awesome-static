@@ -427,46 +427,12 @@ This is processed by Syntrax to generate an SVG image:
 ![Syntrax sample](syntrax-sample.svg)
 
 
-### ▣ WaveDrom
+### ▣ TreeFlex
 
-- [Wavedrom homepage](https://wavedrom.com/)
-- [Project source code in Github](https://github.com/wavedrom/wavedrom)
+**[TreeFlex](https://dumptyd.github.io/treeflex/)** is a CSS library for drawing hierarchy trees
 
-WaveDrom (Digital Timing Diagram everywhere) draws your Timing Diagram or Waveform from
-simple textual description.  It comes with description language, rendering engine and the
-editor.  WaveDrom editor works in the browser or can be installed on your system.  Rendering
-engine can be embeded into any webpage.
 
-a quick example. Following code will create 1-bit signal named "Alfa" that changes its state
-over time.
-
-```
-{ signal: [{ name: "Alfa", wave: "01.zx=ud.23.456789" }] }
-```
-
-Every character in the "wave" string represents a single time period. Symbol "." extends previous state for one more period. Here is how it looks:
-
-![Wavedrom single line sample](wavedrom-01.svg)
-
-A more elaborated example:
-
-This input:
-
-```
-{ signal: [
-    { name: "clk",         wave: "p.....|..." },
-    { name: "Data",        wave: "x.345x|=.x", data: ["head", "body", "tail", "data"] },
-    { name: "Request",     wave: "0.1..0|1.0" },
-    {},
-    { name: "Acknowledge", wave: "1.....|01." }
-]}
-```
-
-Generates this image:
-
-![Wavedrom sample](wavedrom-sample.svg)
-
-### TS Diagram
+### ▣ TS Diagram
 
 Generate diagrams based on Typescript
 
@@ -524,6 +490,45 @@ Looks like:
 
 ![TSDiagram sample](ts_diagram.png)
 
+
+### ▣ WaveDrom
+
+- [Wavedrom homepage](https://wavedrom.com/)
+- [Project source code in Github](https://github.com/wavedrom/wavedrom)
+
+WaveDrom (Digital Timing Diagram everywhere) draws your Timing Diagram or Waveform from
+simple textual description.  It comes with description language, rendering engine and the
+editor.  WaveDrom editor works in the browser or can be installed on your system.  Rendering
+engine can be embeded into any webpage.
+
+a quick example. Following code will create 1-bit signal named "Alfa" that changes its state
+over time.
+
+```
+{ signal: [{ name: "Alfa", wave: "01.zx=ud.23.456789" }] }
+```
+
+Every character in the "wave" string represents a single time period. Symbol "." extends previous state for one more period. Here is how it looks:
+
+![Wavedrom single line sample](wavedrom-01.svg)
+
+A more elaborated example:
+
+This input:
+
+```
+{ signal: [
+    { name: "clk",         wave: "p.....|..." },
+    { name: "Data",        wave: "x.345x|=.x", data: ["head", "body", "tail", "data"] },
+    { name: "Request",     wave: "0.1..0|1.0" },
+    {},
+    { name: "Acknowledge", wave: "1.....|01." }
+]}
+```
+
+Generates this image:
+
+![Wavedrom sample](wavedrom-sample.svg)
 
 
 ### ▣ To do
