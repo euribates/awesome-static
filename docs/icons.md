@@ -117,7 +117,7 @@ Sample:
 
 - [Tabler icons Home page](https://tablericons.com/)
 
-558 Fully customizable free SVG icons. (MIT license)
+4825+ Fully customizable free SVG icons. (MIT license)
 
 - Sample:
 
