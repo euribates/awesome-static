@@ -4,6 +4,14 @@ title: Patterns
 
 [TOC]
 
+### ▣ SVG Backgrounds
+
+<https://www.svgbackgrounds.com/>
+
+Free SVG Backgrounds and Patterns
+
+Enjoy this small sampling of our designs and patterns. All are customizable: change into your brand colors — some even shrink, spin, or shift. Each background is unique to SVGBackgrounds.com, so enjoy exploring before you easily export into your project.
+
 ### ▣ Pattern.css
 
 <https://bansal.io/pattern-css>

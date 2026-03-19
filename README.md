@@ -1,4 +1,6 @@
-## Awesome static meta-resources
+## Awesome static meta-resources, 
+
+#### By Euribates (Juan Ignacio Rodríguez de León)
 
 This repository is a curated collection of static resources (logos,
 photos, sounds, textures, etc...) useful for several kinds of projects,
@@ -10,6 +12,8 @@ You can access the content on
 At the moment there are 11 main sections:
 
 - [CSS](docs/css.md)
+
+- [Diagrams from text](docs/diagrams-from-text.md)
 
 - [Fonts](docs/fonts.md)
 

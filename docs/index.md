@@ -1,4 +1,4 @@
-# Welcome to Awesome Static
+    # Welcome to Awesome Static
 
 ## Awesome static meta-resources
 
